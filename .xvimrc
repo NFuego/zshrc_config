@@ -1,0 +1,2 @@
+map ,n :pjump <CR>
+map ,m :njump <CR>
